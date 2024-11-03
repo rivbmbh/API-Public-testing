@@ -1,0 +1,24 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "name": "pc",
+      "games": [
+        {
+          "id": 203,
+          "name": "GTA San Andreas"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "x box",
+      "games": [
+        {
+          "id": 223,
+          "name": "GTA V"
+        }
+      ]
+    }
+  ]
+}
